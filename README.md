@@ -38,5 +38,4 @@ pip install -r requirements.txt
 - Run the notebook Sentiment Analysis (NLP Project).ipynb to see the model in action.
 
 ## Visualizations
-
-Add any performance visualizations or word clouds here.
+![Most Frequent Words in Tweets](images/visualization.png)
