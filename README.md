@@ -1,6 +1,15 @@
 # Sentiment-Analysis-NLP-Project
 A sentiment analysis project using NLP techniques.
 
+## Table of Contents
+1. [Project Overview](#project-overview)
+2. [Model Architecture](#model-architecture)
+3. [Results](#results)
+4. [Technologies Used](#technologies-used)
+5. [Usage](#usage)
+6. [Visualizations](#visualizations)
+
+
 ## Project Overview
 
 This project focuses on building a Sentiment Analysis model using Natural Language Processing (NLP) techniques. The model is designed to classify textual data based on sentiment, helping to identify whether the sentiment expressed in the text is positive, negative, or neutral.
@@ -38,4 +47,8 @@ pip install -r requirements.txt
 - Run the notebook Sentiment Analysis (NLP Project).ipynb to see the model in action.
 
 ## Visualizations
-![Most Frequent Words in Tweets](Screenshot 2025-02-12 185901.png)
+
+![Most Frequent Words in Tweets](https://github.com/Amiii22/Sentiment-Analysis-NLP-Project/blob/master/Screenshot%202025-02-12%20185901.png)
+
+- Top Words: flight, hour, get, cancelled, customer, service, u, time, bag, help
+- Common Issues: Flight cancellations and delays, customer service problems, and baggage issues are frequently mentioned.
